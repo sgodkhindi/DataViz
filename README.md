@@ -1,6 +1,7 @@
 # DataViz
  
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+
 	a) Overall very small percentage of campaigns are live
 	
 	b) Campaigns where Percent Funded >=100% are usually Successful
