@@ -1,5 +1,5 @@
-# Excel Homework: Kickstart My Chart
-
+# Excel Homework: Kickstart My Chart 
+## Solution Provided Below
 ## Background
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
@@ -122,10 +122,10 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 # Excel Homework Submission
 
-# Solution to Question About Creating a Report in Microsoft Word and Answer Followin Questions
+## Solution to Question About Creating a Report in Microsoft Word and Answer Followin Questions
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
