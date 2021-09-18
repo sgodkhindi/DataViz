@@ -12,6 +12,7 @@
  	I am not able to identify any limitations in the dataset.
 	
 3. What are some other possible tables and/or graphs that we could create?
+
 	a) Pie Chart showing the percentage of campaigns that are - successful /failed/canceled/live.
 	
 	b) Line Graph showing campaigns that are - successful /failed/canceled/live across Year of Date Created.
