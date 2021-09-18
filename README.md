@@ -4,4 +4,4 @@ This the repository for Shailesh Godkhindi's Data Visualization Boot Camp Submis
 
 Following are the folders and what they contain:
 
-Excercise1_Excel - Assignment Submission that covers Statistical Analysis and Graphing in Excel
+1. Excercise1_Excel - Assignment Submission that covers Statistical Analysis and Graphing in Excel
