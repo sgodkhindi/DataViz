@@ -1,5 +1,7 @@
 # Excel Homework: Kickstart My Chart 
-## Solution Provided Below
+## Complete Solution in Excel Provided Below Link
+[Complete Solution in Excel] (Solution/StarterBooks_Solved.xlsx)
+
 ## Background
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
@@ -26,15 +28,23 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
   * Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
+## Solution:
+![Kickstarter Table](Images/FullTable.PNG)
   
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
   * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-  
+## Solution:
+![Category Stats](Images/CategoryStats.PNG)
+
   * Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
   * Create a stacked column pivot chart that can be filtered by country and parent-category based on the table you have created.
+
+## Solution:
+
+![Subcategory Stats](Images/SubcategoryStats.PNG)
 
 * The dates stored within the `deadline` and `launched_at` columns use Unix timestamps. Fortunately for us, [there is a formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) that can be used to convert these timestamps to a normal date. 
 
@@ -47,11 +57,17 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
   * Now create a pivot chart line graph that visualizes this new table.
 
+## Solution:
+![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
+
+
 * Create a report in Microsoft Word and answer the following questions.
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
+
+# Solution: See Below Section Titled - Excel Homework Submission - Data Analysis
 
 ## Bonus
 
@@ -65,6 +81,9 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
   * `Percentage Successful`
   * `Percentage Failed`
   * `Percentage Canceled`
+
+## Solution:
+![Goal Outcomes](Images/GoalOutcomes.PNG)
 
 * In the `Goal` column, create 12 rows with the following headers:
 
@@ -115,23 +134,13 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
--------------------------------------------------------------------------------------------------------------------------------------------
-# Excel Homework Submission
-
-![Kickstarter Table](Images/FullTable.PNG)
-
-![Category Stats](Images/CategoryStats.PNG)
-
-![Subcategory Stats](Images/SubcategoryStats.PNG)
-
-![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
-
-![Goal Outcomes](Images/GoalOutcomes.PNG)
-
+## Solution:
 ![Images/backers01.png](Images/backers01.png)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Excel Homework Submission - Data Analysis
 
-## Solution to Question About Creating a Report in Microsoft Word and Answer Followin Questions
+## Solution to Question About Creating a Report in Microsoft Word and Answer Following Questions
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
