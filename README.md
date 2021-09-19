@@ -1,6 +1,6 @@
 # Excel Homework: Kickstart My Chart 
 ## Complete Solution in Excel Provided Below Link
-[Complete Solution in Excel] (Solution/StarterBooks_Solved.xlsx)
+[Complete Solution in Excel] (https://github.com/sgodkhindi/DataViz/tree/main/solution)
 
 ## Background
 
@@ -29,7 +29,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
   * Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
 ## Solution:
-![Kickstarter Table](Images/FullTable.PNG)
+![Full Table](Images/FullTable.PNG)
   
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
